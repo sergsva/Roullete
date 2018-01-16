@@ -1,0 +1,21 @@
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\bin\Debug\Roullete.exe.config
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\bin\Debug\Roullete.exe
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\bin\Debug\Roullete.pdb
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.csprojResolveAssemblyReference.cache
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.Form1.resources
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.Properties.Resources.resources
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.csproj.GenerateResource.Cache
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.exe
+C:\Users\velkinsea\Desktop\Roullete\Roullete\Roullete\obj\Debug\Roullete.pdb
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\bin\Debug\Roullete.exe.config
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.exe
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.pdb
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\bin\Debug\Roullete.exe
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\bin\Debug\Roullete.pdb
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.csprojResolveAssemblyReference.cache
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.Form1.resources
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.Properties.Resources.resources
+C:\Users\velkinsea\Documents\Visual Studio 2015\Projects\Roullete\Roullete\Roullete\obj\Debug\Roullete.csproj.GenerateResource.Cache
+C:\Users\velkinsea\Desktop\Roullete\Roullete\bin\Debug\Roullete.exe.config
+C:\Users\velkinsea\Desktop\Roullete\Roullete\obj\Debug\Roullete.exe
+C:\Users\velkinsea\Desktop\Roullete\Roullete\obj\Debug\Roullete.pdb
